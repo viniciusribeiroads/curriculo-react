@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+.bg-tot{
+  background-color: #5e91fe;
+  height: 100vh;
+  text-align: center;
+  position:static;
+}
+
+.cabecalho{
+  text-align: center;
+  padding-top: 20px;
+  font-family: 'Press Start 2P', cursive;
+  position: relative;
+}
+
+.informacoes{
+  margin-top: 10000px;
+}
+
+.img-intro {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin-top: 35vh;
+}
+.img-block{
+  margin-left: 60px;
+  cursor: pointer;
+}
+
+.rodape{
+  background-color: #cb4f0f;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 2vh;
+}
+
+.skills{
+  margin-top: -800px;
+  margin-left: 70%;
+}
+
+
